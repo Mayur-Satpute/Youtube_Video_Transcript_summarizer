@@ -79,7 +79,3 @@ Make sure you have the following installed:
 - If the video has no transcript, the app will display an error message.
 
 ---
-
-## License
-
-© 2025 QuickNotes by Mayur Satpute - All Rights Reserved 🌐
