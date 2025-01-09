@@ -66,10 +66,10 @@ Make sure you have the following installed:
 ---
 
 ## Screenshots
+![image alt](https://github.com/Mayur-Satpute/Youtube_Video_Transcript_summarizer/blob/main/Screenshot%20(7).png?raw=true)
 ![image_alt](https://github.com/Mayur-Satpute/Youtube_Video_Transcript_summarizer/blob/main/Screenshot%20(8).png?raw=true)
 ![image alt](https://github.com/Mayur-Satpute/Youtube_Video_Transcript_summarizer/blob/main/Screenshot%20(10).png?raw=true)
 ![image alt](https://github.com/Mayur-Satpute/Youtube_Video_Transcript_summarizer/blob/main/Screenshot%20(11).png?raw=true)
-![image alt](https://github.com/Mayur-Satpute/Youtube_Video_Transcript_summarizer/blob/main/Screenshot%20(7).png?raw=true)
 ![image alt](https://github.com/Mayur-Satpute/Youtube_Video_Transcript_summarizer/blob/main/Screenshot%20(9).png?raw=true)
 ---
 
